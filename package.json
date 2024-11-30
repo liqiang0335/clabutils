@@ -28,7 +28,10 @@
     "father": "^4.5.1"
   },
   "dependencies": {
+    "@types/xlsx": "^0.0.36",
     "file-saver": "^2.0.5",
-    "lodash-es": "^4.17.21"
+    "lodash-es": "^4.17.21",
+    "viewerjs": "^1.11.7",
+    "xlsx": "^0.18.5"
   }
 }
